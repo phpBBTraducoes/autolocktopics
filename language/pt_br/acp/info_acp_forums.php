@@ -2,10 +2,10 @@
 
 /**
  * Auto-lock Topics Extension for phpBB.
- * Brazilian Portuguese translation by eunaumtenhoid (c) 2017 [ver 1.0.2] (https://github.com/phpBBTraducoes)
+ * Brazilian Portuguese translation by eunaumtenhoid [2017][ver 1.1.2](https://github.com/phpBBTraducoes)
  * @author Alfredo Ramos <alfredo.ramos@yandex.com>
  * @copyright 2017 Alfredo Ramos
- * @license GPL-2.0
+ * @license GPL-2.0-only
  */
 
 /**
